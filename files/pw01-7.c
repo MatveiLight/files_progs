@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-void load_mem(void)
+void load_mem()
 {
 printf("MEM_OK");
 }
 
-void load_cpu(void)
+void load_cpu()
 {
 printf("CPU_OK");
 }
 
-int main(void)
+int main()
 {
 printf("BOOT:");
 
