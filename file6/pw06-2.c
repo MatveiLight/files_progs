@@ -19,7 +19,7 @@ int main(void) {
         prev = ch;
     }
 
-    wprintf(L"Количество вхождений последовательности «то»: %d\n", count);
+    wprintf(L"Количество «то»: %d\n", count);
 
     return 0;
 }
